@@ -2,6 +2,8 @@
 
 Formatteer, controleer en verklein JSON in een overzichtelijke werkruimte. JSON Harbor draait volledig in je browser, zodat privégegevens je apparaat niet verlaten.
 
+**Live demo:** [Probeer JSON Harbor](https://codearcade-ctrl.github.io/json-harbor/)
+
 **Talen:** [English](README.md) | [Nederlands](README.nl.md)
 
 ## Functies

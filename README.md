@@ -2,6 +2,8 @@
 
 Format, validate, and minify JSON in a clean side-by-side workspace. JSON Harbor runs entirely in your browser, so private payloads never leave your device.
 
+**Live demo:** [Try JSON Harbor](https://codearcade-ctrl.github.io/json-harbor/)
+
 **Languages:** [English](README.md) | [Nederlands](README.nl.md)
 
 ## Features
